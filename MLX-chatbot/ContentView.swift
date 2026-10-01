@@ -96,11 +96,11 @@ struct ContentView: View {
 //----Section 1: Title/Subtitle-----------//
 
                 // ★ CHANGE THE TEXT BELOW TO YOUR OWN WELCOME MESSAGE:
-               Text( " ? " )
+               Text( " HELLO USER " )
                     .font(.largeTitle.bold())
 
                 // ★ CHANGE THIS SUBTITLE TO DESCRIBE YOUR APP:
-                Text(" ? ")
+                Text(" Type your pokemon for your type ")
                     .font(.title3)
                     .foregroundColor(.secondary)
                     .multilineTextAlignment(.center)
